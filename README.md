@@ -1,5 +1,5 @@
 Projeto do jogo do amigo secreto que adiciona nomes, sorteia e limpa a tela. 
-Criado com base no site do projeto da ONE, programa da Oracle em parceria da Aluna que capaciita profissionais por meio de diversos cursos.
+Criado com base no site do projeto da ONE, programa da Oracle em parceria da Alura que capaciita profissionais por meio de diversos cursos.
 
 No projeto fiz as seguntes funcinalidades:
 - Criei um array para armazenar os nomes
